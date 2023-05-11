@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
+    print("turan guncelleme");
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Hava Durumu',
